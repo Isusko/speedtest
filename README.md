@@ -1,5 +1,16 @@
+With this example I can get a speed test of internet:
+
+Fecha y Hora  16-08-2024 10:32:02
+Dowload Speed in Mbps:  48.74
+Upload Speed in Mbps:  48.22
+Ping:  23.344
+
+then I can save this information on word.
+
 This example was made on Python 3
 We need to install the next packages
+
+```
 1.- pip install speedtest-cli 
 
 PS C:\Users\USER\Documents\GitHub\ExamplesPy\speedtest> pip install speedtest-cli 
@@ -10,7 +21,9 @@ Collecting speedtest-cli
 Using cached speedtest_cli-2.1.3-py2.py3-none-any.whl (23 kB)
 Installing collected packages: speedtest-cli
 Successfully installed speedtest-cli-2.1.3
+```
 
+```
 2.- pip install python-docx
 
 PS C:\Users\USER\Documents\GitHub\ExamplesPy\speedtest> pip install python-docx
@@ -32,3 +45,5 @@ Fecha y Hora  16-08-2024 10:09:45
 Dowload Speed in Mbps:  48.34
 Upload Speed in Mbps:  48.94
 Ping:  21.659
+
+```
